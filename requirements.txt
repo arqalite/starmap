@@ -1,0 +1,7 @@
+matplotlib
+skyfield
+pytz
+timezonefinder
+numpy
+pandas
+ttkbootstrap

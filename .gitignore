@@ -1,0 +1,17 @@
+# Astronomical data
+*.bsp
+*.dat
+*.fab
+
+# Rendered images
+*.png
+!assets/logo.png
+
+# Python virtual env
+.venv/
+__pycache__/
+
+# Build folder
+dist/
+build/
+*.spec
