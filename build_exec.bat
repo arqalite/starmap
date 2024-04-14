@@ -1,2 +1,2 @@
 pip install -r requirements.txt
-pyinstaller --onefile --strip --hide-console --optimize 2 starmap.py
+pyinstaller --onefile --strip --hide-console hide-early --optimize 2 starmap.py
