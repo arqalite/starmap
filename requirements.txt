@@ -5,3 +5,4 @@ timezonefinder
 numpy
 pandas
 ttkbootstrap
+pyinstaller
